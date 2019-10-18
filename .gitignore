@@ -81,10 +81,6 @@ typings/
 # nuxt.js build output
 .nuxt
 
-# gatsby files
-.cache/
-public
-
 # vuepress build output
 .vuepress/dist
 
@@ -99,3 +95,4 @@ public
 
 # TernJS port file
 .tern-port
+
